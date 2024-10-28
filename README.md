@@ -76,16 +76,6 @@ This repository contains solutions to programming problems from the Problem Shee
 
 ---
 
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/YourRepoName.git
-   cd YourRepoName
-
-
-
-
 
 
 # C Programming Problem Sheet
@@ -165,15 +155,6 @@ This repository contains solutions to fundamental C programming exercises, focus
 
 ---
 
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/YourRepoName.git
-   cd YourRepoName
-
-
-
 
 
 # C Programming Exercises - Array, String, and Matrix Operations
@@ -223,10 +204,3 @@ This repository contains a collection of C programming exercises focused on arra
 26. **Insert Character at Specific Position** - Inserts a specified character at a specified position in a string.
 
 ---
-
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/YourRepoName.git
-   cd YourRepoName
